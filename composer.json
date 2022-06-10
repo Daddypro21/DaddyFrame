@@ -1,0 +1,16 @@
+{
+    "name": "daddypro21/daddy-frame",
+    "autoload": {
+        "psr-4": {
+            "Daddypro21\\DaddyFrame\\": "src/",
+            "app\\":"./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daddypro21",
+            "email": "sndemapro@gmail.com"
+        }
+    ],
+    "require": {}
+}
